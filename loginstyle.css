@@ -1,0 +1,35 @@
+body{
+    background: url('images/earthbackground.jpg');
+    text-align: center; 
+}
+
+h2{
+    border: none;
+    text-align: center;
+    color: rgba(0, 0, 0, .5);
+    background: #badc58;
+    border-radius: 0.5rem;
+}
+
+form {
+    text-align: center;
+    border: none;
+    background: #badc58;
+    border-radius: 0.25rem;
+    padding-top: 25px;
+    width: 100%;
+}
+
+.form-control{
+    margin-left: 25%;
+    width : 50%
+}
+
+.conteneur{
+    margin-top: 25px;
+    margin-left: 350px;
+    border: none;
+    background: rgba(0, 0, 0, .5);
+    border-radius: 0.5rem;
+    padding:  10px;
+}
